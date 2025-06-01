@@ -1,3 +1,11 @@
 sixDOF/
 __pycache__/
 *.pyc
+*.log
+.env
+.env.*
+.pytest_cache/
+.coverage
+htmlcov/
+.DS_Store
+Thumbs.db
